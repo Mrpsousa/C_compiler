@@ -1,5 +1,5 @@
-# Compiladores
-Projeto de um compilador simples em C
+# Compilador 
+ - Projeto de compilador simples em C
 
 >> Compilação 
 O programa pode ser compilado com o seguinte: 
